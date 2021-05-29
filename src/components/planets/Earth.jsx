@@ -25,7 +25,7 @@ export default function Earth(props) {
   return (
     <div className='App'>
       <Navbar />
-      <FullScreen handle={handle}>
+      <FullScreen className='fullscreen' handle={handle}>
         <main>
           <div className='container-right'>
             <h1>Planet Information:</h1>
