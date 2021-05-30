@@ -7,7 +7,6 @@ export default function Navigation(props) {
   return (
     <Navbar className="navbar" expand="lg">
       <Navbar.Brand className="navbar-brand">SpaceWalk</Navbar.Brand>
-      <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mx-auto">
           <Nav.Link eventKey="1" href="/mercury">Mercury</Nav.Link>
