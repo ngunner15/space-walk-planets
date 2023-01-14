@@ -7,7 +7,7 @@ Specific purpose of this repo is to host it on a heroku server, so viewers can t
 ## Demo
 
 This website is hosted on Heroku.
-[Click here](https://space-walk-planets.herokuapp.com/)
+[Click here](https://space-walk.onrender.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
